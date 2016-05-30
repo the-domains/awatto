@@ -1,0 +1,14 @@
+layout_spectrum: 0.8095382731407881
+typography_spectrum: 0.9712409749627113
+color:
+  brandStrength: 0.6291138310916722
+  lightness: 0.023402234073728323
+  saturation: 0.9258581697940826
+  rhythmicContrast: 0.21795189217664301
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: awatto
